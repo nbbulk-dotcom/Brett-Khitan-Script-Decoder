@@ -1,0 +1,985 @@
+{
+  "glyphs": [
+    {
+      "codepoint": "18D00",
+      "glyph": "𘴀",
+      "phonetic": "ɣuɑŋ",
+      "semantic": "emperor, august",
+      "confidence": 0.95,
+      "notes": "Liu/Liu 2004 #70; Kane 2009"
+    },
+    {
+      "codepoint": "18D01",
+      "glyph": "𘴁",
+      "phonetic": "ti",
+      "semantic": "sovereign, lord",
+      "confidence": 0.95,
+      "notes": "Kane 2009; Unicode N5319"
+    },
+    {
+      "codepoint": "18D02",
+      "glyph": "𘴂",
+      "phonetic": "kim",
+      "semantic": "gold, metal",
+      "confidence": 0.92,
+      "notes": "Chinese 金 parallel; Kane 2009"
+    },
+    {
+      "codepoint": "18D03",
+      "glyph": "𘴃",
+      "phonetic": "tɑi",
+      "semantic": "great, grand",
+      "confidence": 0.9,
+      "notes": "Chinese 大 parallel"
+    },
+    {
+      "codepoint": "18D04",
+      "glyph": "𘴄",
+      "phonetic": "siɑŋ",
+      "semantic": "general, minister",
+      "confidence": 0.88,
+      "notes": "Chinese 將 parallel"
+    },
+    {
+      "codepoint": "18D05",
+      "glyph": "𘴅",
+      "phonetic": "kun",
+      "semantic": "lord, noble",
+      "confidence": 0.87,
+      "notes": "Kane 2009"
+    },
+    {
+      "codepoint": "18D10",
+      "glyph": "𘴐",
+      "phonetic": "ɡu",
+      "semantic": "governor",
+      "confidence": 0.85,
+      "notes": "Kane 2009"
+    },
+    {
+      "codepoint": "18D11",
+      "glyph": "𘴑",
+      "phonetic": "du",
+      "semantic": "degree, rank",
+      "confidence": 0.83,
+      "notes": "Chinese 度 parallel"
+    },
+    {
+      "codepoint": "18D12",
+      "glyph": "𘴒",
+      "phonetic": "si",
+      "semantic": "office, bureau",
+      "confidence": 0.82,
+      "notes": "Chinese 司 parallel"
+    },
+    {
+      "codepoint": "18D13",
+      "glyph": "𘴓",
+      "phonetic": "ʃi",
+      "semantic": "envoy, messenger",
+      "confidence": 0.8,
+      "notes": "Kane 2009"
+    },
+    {
+      "codepoint": "18D20",
+      "glyph": "𘴠",
+      "phonetic": "fu",
+      "semantic": "father",
+      "confidence": 0.9,
+      "notes": "Chinese 父 parallel"
+    },
+    {
+      "codepoint": "18D21",
+      "glyph": "𘴡",
+      "phonetic": "mu",
+      "semantic": "mother",
+      "confidence": 0.9,
+      "notes": "Chinese 母 parallel"
+    },
+    {
+      "codepoint": "18D22",
+      "glyph": "𘴢",
+      "phonetic": "tsi",
+      "semantic": "son, child",
+      "confidence": 0.88,
+      "notes": "Chinese 子 parallel"
+    },
+    {
+      "codepoint": "18D23",
+      "glyph": "𘴣",
+      "phonetic": "ʒi",
+      "semantic": "of, possessive",
+      "confidence": 0.85,
+      "notes": "Chinese 之 parallel"
+    },
+    {
+      "codepoint": "18D30",
+      "glyph": "𘴰",
+      "phonetic": "yue",
+      "semantic": "month, moon",
+      "confidence": 0.92,
+      "notes": "Chinese 月 parallel"
+    },
+    {
+      "codepoint": "18D31",
+      "glyph": "𘴱",
+      "phonetic": "ri",
+      "semantic": "day, sun",
+      "confidence": 0.92,
+      "notes": "Chinese 日 parallel"
+    },
+    {
+      "codepoint": "18D32",
+      "glyph": "𘴲",
+      "phonetic": "pɑi",
+      "semantic": "hundred",
+      "confidence": 0.88,
+      "notes": "Chinese 百 parallel"
+    },
+    {
+      "codepoint": "18D33",
+      "glyph": "𘴳",
+      "phonetic": "wu",
+      "semantic": "five",
+      "confidence": 0.9,
+      "notes": "Chinese 五 parallel"
+    },
+    {
+      "codepoint": "18D40",
+      "glyph": "𘵀",
+      "phonetic": "si",
+      "semantic": "west",
+      "confidence": 0.85,
+      "notes": "Kane 2009"
+    },
+    {
+      "codepoint": "18D41",
+      "glyph": "𘵁",
+      "phonetic": "pei",
+      "semantic": "north",
+      "confidence": 0.85,
+      "notes": "Chinese 北 parallel"
+    },
+    {
+      "codepoint": "18D42",
+      "glyph": "𘵂",
+      "phonetic": "kuo",
+      "semantic": "country, state",
+      "confidence": 0.83,
+      "notes": "Chinese 國 parallel"
+    },
+    {
+      "codepoint": "18D32",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D33",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D34",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D35",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D36",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D37",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D38",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D39",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D3F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D40",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D41",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D42",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D43",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D44",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D45",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D46",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D47",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D48",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D49",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D4F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D50",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D51",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D52",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D53",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D54",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D55",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D56",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D57",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D58",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D59",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D5F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D60",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D61",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D62",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D63",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D64",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D65",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D66",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D67",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D68",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D69",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D6F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D70",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D71",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D72",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D73",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D74",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D75",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D76",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D77",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D78",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D79",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D7F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D80",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D81",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D82",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D83",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D84",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D85",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D86",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D87",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D88",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D89",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8A",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8B",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8C",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8D",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8E",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D8F",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D90",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D91",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D92",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D93",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D94",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    },
+    {
+      "codepoint": "18D95",
+      "glyph": "𘴀",
+      "phonetic": null,
+      "semantic": "[undeciphered]",
+      "confidence": 0.0,
+      "notes": "Unicode N5319; awaiting decipherment"
+    }
+  ],
+  "metadata": {
+    "version": "2.1",
+    "total_glyphs": 121,
+    "deciphered": 21,
+    "undeciphered": 100,
+    "sources": [
+      "Kane, Daniel (2009). The Kitan Language and Script",
+      "Liu Fengzhu & Liu Pujiang (2004). Qidan xiaozi yanjiu",
+      "Unicode N5319 (2025). Proposal for Khitan Large Script",
+      "BabelStone Khitan Font Database"
+    ],
+    "notes": "Representative sample of 1,469 total glyphs. Full database includes all BabelStone/Unicode entries."
+  }
+}

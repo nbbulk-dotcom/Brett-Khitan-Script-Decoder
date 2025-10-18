@@ -1,0 +1,24 @@
+{
+  "tiers": {
+    "imperial": {
+      "low": 880,
+      "high": 1000,
+      "description": "Imperial/ritual contexts (emperor, sovereign)"
+    },
+    "admin": {
+      "low": 440,
+      "high": 660,
+      "description": "Administrative contexts (officials, titles)"
+    },
+    "daily": {
+      "low": 220,
+      "high": 440,
+      "description": "Daily/common contexts"
+    }
+  },
+  "metadata": {
+    "description": "Frequency tiers for emotional/ritual analysis",
+    "source": "Brett Method acoustic analysis",
+    "notes": "Based on vocal range analysis and contextual weighting"
+  }
+}

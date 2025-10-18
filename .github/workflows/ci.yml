@@ -1,0 +1,71 @@
+name: Khitan Decoder CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.11', '3.12']
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov
+    
+    - name: Test decoder import
+      run: |
+        python -c "from khitan_large_decoder import KhitanDecoder; print('Decoder imported successfully')"
+    
+    - name: Test basic decoding
+      run: |
+        python khitan_large_decoder.py --inscription yelu_yanning --output test_output.json
+        test -f test_output.json && echo "Decoding test passed"
+    
+    - name: List available inscriptions
+      run: |
+        python khitan_large_decoder.py --list
+    
+    - name: Verify data files
+      run: |
+        test -f data/glyph_database.json || exit 1
+        test -f data/inscriptions_corpus.json || exit 1
+        test -f data/phonetic_probabilities.json || exit 1
+        test -f data/frequency_tiers.json || exit 1
+        test -f data/pattern_catalog.json || exit 1
+        echo "All data files present"
+
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: Install linting tools
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8
+    
+    - name: Lint with flake8
+      run: |
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
