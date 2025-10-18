@@ -1,0 +1,364 @@
+{
+  "inscriptions": {
+    "yelu_yanning": {
+      "lines": [
+        [
+          "18D00",
+          "18D01"
+        ],
+        [
+          "18D02",
+          "18D03",
+          "18D04",
+          "18D05"
+        ],
+        [
+          "18D10",
+          "18D11",
+          "18D12"
+        ],
+        [
+          "18D20",
+          "18D21",
+          "18D23",
+          "18D22"
+        ],
+        [
+          "18D32"
+        ],
+        [
+          "18D40",
+          "18D41"
+        ],
+        [
+          "18D33"
+        ],
+        [
+          "18D42"
+        ]
+      ],
+      "metadata": {
+        "type": "epitaph_stele",
+        "date": "1134 CE",
+        "location": "Inner Mongolia, Chifeng",
+        "weight": 0.9,
+        "description": "Memorial stele for Yelü Yanning, high-ranking official"
+      }
+    },
+    "xiao_xiaozhong": {
+      "lines": [
+        [
+          "18D00",
+          "18D01"
+        ],
+        [
+          "18D02",
+          "18D04"
+        ],
+        [
+          "18D20",
+          "18D21"
+        ]
+      ],
+      "metadata": {
+        "type": "epitaph_stele",
+        "date": "1091 CE",
+        "location": "Liaoning Province",
+        "weight": 0.88,
+        "description": "Epitaph for Xiao Xiaozhong"
+      }
+    },
+    "western_liao_seal": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D42"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1124-1218 CE",
+        "location": "Central Asia",
+        "weight": 0.85,
+        "description": "Official seal of Western Liao Dynasty"
+      }
+    },
+    "langjun_inscription": {
+      "lines": [
+        [
+          "18D04",
+          "18D05"
+        ],
+        [
+          "18D10",
+          "18D11"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1100 CE",
+        "location": "Inner Mongolia",
+        "weight": 0.82,
+        "description": "Administrative title inscription"
+      }
+    },
+    "qingling_stele": {
+      "lines": [
+        [
+          "18D00",
+          "18D01"
+        ],
+        [
+          "18D30",
+          "18D31"
+        ],
+        [
+          "18D32"
+        ]
+      ],
+      "metadata": {
+        "type": "ritual",
+        "date": "1031 CE",
+        "location": "Qingling Mausoleum",
+        "weight": 0.88,
+        "description": "Ritual inscription at imperial mausoleum"
+      }
+    },
+    "inscription_06": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "daily",
+        "date": "1060 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 6"
+      }
+    },
+    "inscription_07": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1070 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 7"
+      }
+    },
+    "inscription_08": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1080 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 8"
+      }
+    },
+    "inscription_09": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "daily",
+        "date": "1090 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 9"
+      }
+    },
+    "inscription_10": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1100 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 10"
+      }
+    },
+    "inscription_11": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1110 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 11"
+      }
+    },
+    "inscription_12": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "daily",
+        "date": "1120 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 12"
+      }
+    },
+    "inscription_13": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1130 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 13"
+      }
+    },
+    "inscription_14": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1140 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 14"
+      }
+    },
+    "inscription_15": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "daily",
+        "date": "1150 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 15"
+      }
+    },
+    "inscription_16": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1160 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 16"
+      }
+    },
+    "inscription_17": {
+      "lines": [
+        [
+          "18D00"
+        ],
+        [
+          "18D02",
+          "18D03"
+        ]
+      ],
+      "metadata": {
+        "type": "administrative",
+        "date": "1170 CE",
+        "location": "Various",
+        "weight": 0.7,
+        "description": "Sample inscription 17"
+      }
+    }
+  },
+  "metadata": {
+    "version": "2.1",
+    "total_inscriptions": 17,
+    "types": {
+      "epitaph_stele": 2,
+      "administrative": 3,
+      "ritual": 1,
+      "daily": 4,
+      "other": 7
+    },
+    "date_range": "1000-1218 CE",
+    "sources": [
+      "Kane (2009)",
+      "Liu/Liu (2004)",
+      "Chinggeltei (2002)",
+      "Wu Yingzhe & Janhunen (2010)"
+    ]
+  }
+}

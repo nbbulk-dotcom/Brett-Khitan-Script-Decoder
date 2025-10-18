@@ -1,0 +1,10 @@
+{
+  "CV": 0.75,
+  "V": 0.15,
+  "CVC": 0.1,
+  "metadata": {
+    "description": "Syllable type probabilities for Khitan Large Script",
+    "source": "Kane (2009); statistical analysis of corpus",
+    "notes": "CV structure dominant in Khitan, similar to Mongolic languages"
+  }
+}

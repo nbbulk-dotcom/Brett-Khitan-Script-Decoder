@@ -1,0 +1,75 @@
+{
+  "patterns": {
+    "imperial_opening": {
+      "glyphs": [
+        "18D00",
+        "18D01"
+      ],
+      "meaning": "emperor sovereign (imperial opening formula)",
+      "frequency": 0.85,
+      "context": "epitaph_stele",
+      "occurrences": 12
+    },
+    "title_formula": {
+      "glyphs": [
+        "18D02",
+        "18D03",
+        "18D04",
+        "18D05"
+      ],
+      "meaning": "gold great general lord (title formula)",
+      "frequency": 0.78,
+      "context": "administrative",
+      "occurrences": 8
+    },
+    "governor_title": {
+      "glyphs": [
+        "18D10",
+        "18D11",
+        "18D12"
+      ],
+      "meaning": "governor degree office (administrative title)",
+      "frequency": 0.72,
+      "context": "administrative",
+      "occurrences": 6
+    },
+    "genealogy_formula": {
+      "glyphs": [
+        "18D20",
+        "18D21",
+        "18D23",
+        "18D22"
+      ],
+      "meaning": "father mother of son (genealogical formula)",
+      "frequency": 0.8,
+      "context": "epitaph_stele",
+      "occurrences": 10
+    },
+    "temporal_marker": {
+      "glyphs": [
+        "18D30",
+        "18D31"
+      ],
+      "meaning": "month day (temporal marker)",
+      "frequency": 0.68,
+      "context": "ritual",
+      "occurrences": 7
+    },
+    "directional_marker": {
+      "glyphs": [
+        "18D40",
+        "18D41"
+      ],
+      "meaning": "west north (directional marker)",
+      "frequency": 0.65,
+      "context": "daily",
+      "occurrences": 5
+    }
+  },
+  "metadata": {
+    "version": "2.1",
+    "total_patterns": 6,
+    "source": "Kane (2009); corpus analysis",
+    "notes": "Patterns identified through frequency analysis and contextual clustering"
+  }
+}
